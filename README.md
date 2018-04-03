@@ -1,7 +1,7 @@
 # mailService
 Rest API for A compose mail form allowing multiple reciepients. It uses sendGrid and Mail gun apis to send the emails. Has a failover security so that if one of the apis fails, it tries to sedn the mail using second API.
 
-UI Source Code - Please check link for UI code.
+UI Source Code - Please check https://github.com/Dilipv1990/mailService-UI for UI source code.
 
 How to Run - 
 1. Please create your API key for SendGrid and Api key + domain for Mailgun.
