@@ -3,6 +3,8 @@ Rest API for A compose mail form allowing multiple reciepients. It uses sendGrid
 
 UI Source Code - Please check https://github.com/Dilipv1990/mailService-UI for UI source code.
 
+Note :- This repo contains minified files for UI application in the ./public folder.
+
 How to Run - 
 1. Please create your API key for SendGrid and Api key + domain for Mailgun.
 2. Add these details in env.json file.
